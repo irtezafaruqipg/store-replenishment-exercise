@@ -1,0 +1,21 @@
+store_id,product_id,product_name,category,reference_date,seven_day_sales,average_daily_sales,projected_seven_day_demand,latest_inventory_date,units_on_hand,stock_shortfall,case_pack_size,recommended_order_units,recommendation_status
+STORE01,PG001,Tide Laundry Day Legend,Laundry,2026-10-25,25.0,3.57,25.0,2026-10-25,10.0,15.0,12.0,24.0,Replenishment recommended
+STORE01,PG002,Ariel Stain Ninja,Laundry,2026-10-25,12.0,1.71,12.0,2026-10-25,20.0,0.0,8.0,0.0,No order required
+STORE01,PG003,Pampers Midnight Mission,Baby Care,2026-10-25,30.0,4.29,30.0,2026-10-25,8.0,22.0,6.0,24.0,Replenishment recommended
+STORE01,PG004,Gillette Monday Morning Rescue,Grooming,2026-10-25,3.0,0.43,3.0,2026-10-25,10.0,0.0,10.0,0.0,No order required
+STORE01,PG005,Oral-B Smile Squad,Oral Care,2026-10-25,12.0,1.71,12.0,2026-10-25,0.0,12.0,12.0,12.0,Replenishment recommended
+STORE01,PG006,Febreze Mystery Smell Solver,Home Care,2026-10-25,9.0,1.29,9.0,2026-10-25,4.0,5.0,6.0,6.0,Replenishment recommended
+STORE01,PG007,Tide Sock Reunion Club,Laundry,2026-10-25,4.0,0.57,4.0,2026-10-25,2.0,2.0,,,No recommendation: invalid case-pack size
+STORE02,PG001,Tide Laundry Day Legend,Laundry,2026-10-25,30.0,4.29,30.0,2026-10-25,6.0,24.0,12.0,24.0,Replenishment recommended
+STORE02,PG002,Ariel Stain Ninja,Laundry,2026-10-25,3.0,0.43,3.0,2026-10-25,8.0,0.0,8.0,0.0,No order required
+STORE02,PG003,Pampers Midnight Mission,Baby Care,2026-10-25,60.0,8.57,60.0,2026-10-25,12.0,48.0,6.0,48.0,Replenishment recommended
+STORE02,PG004,Gillette Monday Morning Rescue,Grooming,2026-10-25,5.0,0.71,5.0,2026-10-25,0.0,5.0,10.0,10.0,Replenishment recommended
+STORE02,PG005,Oral-B Smile Squad,Oral Care,2026-10-25,15.0,2.14,15.0,2026-10-25,9.0,6.0,12.0,12.0,Replenishment recommended
+STORE02,PG006,Febreze Mystery Smell Solver,Home Care,2026-10-25,12.0,1.71,12.0,,,,6.0,,No recommendation: missing inventory
+STORE03,PG001,Tide Laundry Day Legend,Laundry,2026-10-25,9.0,1.29,9.0,2026-10-24,5.0,4.0,12.0,12.0,Replenishment recommended
+STORE03,PG002,Ariel Stain Ninja,Laundry,2026-10-25,16.0,2.29,16.0,2026-10-25,3.0,13.0,8.0,16.0,Replenishment recommended
+STORE03,PG003,Pampers Midnight Mission,Baby Care,2026-10-25,7.0,1.0,7.0,2026-10-25,12.0,0.0,6.0,0.0,No order required
+STORE03,PG004,Gillette Monday Morning Rescue,Grooming,2026-10-25,15.0,2.14,15.0,2026-10-24,4.0,11.0,10.0,20.0,Replenishment recommended
+STORE03,PG005,Oral-B Smile Squad,Oral Care,2026-10-25,5.0,0.71,5.0,2026-10-25,20.0,0.0,12.0,0.0,No order required
+STORE03,PG006,Febreze Mystery Smell Solver,Home Care,2026-10-25,20.0,2.86,20.0,2026-10-25,2.0,18.0,6.0,18.0,Replenishment recommended
+STORE03,PG008,Febreze Fresh Start Squad,Home Care,2026-10-25,5.0,0.71,5.0,2026-10-25,1.0,4.0,,,No recommendation: invalid case-pack size

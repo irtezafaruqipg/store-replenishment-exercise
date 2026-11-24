@@ -1,0 +1,17 @@
+Source File,Issue,Count,Action
+Products.csv,Duplicate record,0,Duplicate removed
+Sales.csv,Duplicate record,1,Duplicate removed
+Inventory.csv,Duplicate record,1,Duplicate removed
+Store_notes.csv,Duplicate record,0,Duplicate removed
+Sales.csv,Invalid date,1,Row removed
+Inventory.csv,Invalid date,1,Row removed
+Products.csv,Missing required value,0,Row removed
+Sales.csv,Missing required value,2,Row removed
+Inventory.csv,Missing required value,1,Row removed
+Store_notes.csv,Missing required value,1,Row removed
+Sales.csv,Unknown product,1,Row removed
+Inventory.csv,Unknown product,1,Row removed
+Store_notes.csv,Unknown product,0,Row removed
+Sales.csv,Negative quantity,1,Row removed
+Inventory.csv,Negative quantity,1,Row removed
+Products.csv,Invalid case pack,2,Product retained with blank case-pack size
